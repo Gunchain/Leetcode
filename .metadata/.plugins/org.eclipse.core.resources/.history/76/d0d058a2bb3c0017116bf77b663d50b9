@@ -1,0 +1,20 @@
+
+public class Solution {
+
+	public int reverse(int x) {
+        if (x > -10 && x < 10){
+        	return x;
+        }
+        int re = 0;
+		while(x > 10 || x < -10){
+        	re *= 10;
+        	re += x % 10;
+        	x /= 10;
+        }
+		if (x < 0){
+			re = 0 - re;
+			
+		}
+		return re * 10 + x;
+    }
+}

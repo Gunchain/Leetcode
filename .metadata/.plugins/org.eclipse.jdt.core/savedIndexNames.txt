@@ -1,20 +1,4 @@
 INDEX VERSION 1.129+C:\Users\Chen\Google ‘∆∂À”≤≈Ã\Git\Leetcode\.metadata\.plugins\org.eclipse.jdt.core
-3301837341.index
-1293610212.index
-1352794882.index
-563122839.index
-4050228523.index
-2337332095.index
-2555208392.index
+2271022262.index
 3610736966.index
-4270069946.index
-1059147146.index
-2299445239.index
-2867280685.index
-3967851891.index
-50618676.index
-2464979613.index
-3552460195.index
-2848733463.index
-968967651.index
-1370744706.index
+2576266962.index
