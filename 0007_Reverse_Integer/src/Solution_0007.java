@@ -1,5 +1,5 @@
 
-public class Solution {
+public class Solution_0007 {
 
 	public int reverse(int x) {
         if (x > -10 && x < 10){

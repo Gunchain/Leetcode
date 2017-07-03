@@ -2,9 +2,9 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class SolutionTest {
+public class Solution_0013Test {
 
-	Solution s = new Solution();
+	Solution_0013 s = new Solution_0013();
 	@Test
 	public void test() {
 		assertNotNull(s);

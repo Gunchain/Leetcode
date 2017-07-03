@@ -1,5 +1,5 @@
 
-public class Solution {
+public class Solution_0013 {
 
 	public int romanToInt(String s) {
         int re = 0;

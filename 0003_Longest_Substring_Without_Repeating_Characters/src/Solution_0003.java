@@ -1,5 +1,5 @@
 
-public class Solution {
+public class Solution_0003 {
 	public int lengthOfLongestSubstring(String s) {
         char[] ch = s.toCharArray();
         return longestSubCharArray(ch, 0, ch.length);

@@ -2,9 +2,9 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class SolutionTest {
+public class Solution_0007Test {
 
-	Solution s = new Solution();
+	Solution_0007 s = new Solution_0007();
 	@Test
 	public void test() {
 		//fail("Not yet implemented");

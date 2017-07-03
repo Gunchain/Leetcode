@@ -1,5 +1,5 @@
 
-public class Solution {
+public class Solution_0009 {
 
 	public boolean isPalindrome(int x) {
 		String s = String.valueOf(x);
